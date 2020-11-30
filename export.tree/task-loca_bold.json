@@ -1,7 +1,0 @@
-{
-  "TaskName": "Localizer",
-  "RepetitionTime": 2.0,
-  "EchoTime": 0.03,
-  "PhaseEncodingDirection": "j-",
-  "EffectiveEchoSpacing": 0.000656
-}
